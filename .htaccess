@@ -6,5 +6,5 @@ ErrorDocument 404 /index.html
 
 AuthType Basic  
 AuthName "restricted"  
-AuthUserFile /.htpasswd  
+AuthUserFile wobster.co.uk/.htpasswd  
 require valid-user
