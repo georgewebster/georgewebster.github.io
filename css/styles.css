@@ -9776,7 +9776,8 @@ header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #23b8c5;
+  background-color: #23b8c5;
+  color: #fff;
   /*background-image: url("../assets/img/core/test.png");*/
   background-repeat: no-repeat;
   background-attachment: scroll;
