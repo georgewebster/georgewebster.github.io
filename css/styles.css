@@ -2068,7 +2068,7 @@ textarea.form-control {
 .btn {
   display: inline-block;
   font-weight: 400;
-  color: #464646;
+  color: #fff;
   text-align: center;
   vertical-align: middle;
   -webkit-user-select: none;
@@ -2094,7 +2094,6 @@ textarea.form-control {
 }
 .btn:focus, .btn.focus {
   outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(254, 209, 54, 0.25);
 }
 .btn.disabled, .btn:disabled {
   opacity: 0.65;
@@ -9708,6 +9707,7 @@ img::-moz-selection {
   text-transform: uppercase;
   background-color: #23b8c5;
   border: 0;
+  color: #fff;
 }
 #mainNav .navbar-brand {
   color: #23b8c5;
